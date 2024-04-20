@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KidsLearningGame</string>
+    <string name="parrafo">  ¿Que quieres aprender?</string>
+    <string name="colores">Colores</string>
+    <string name="animales">Animales</string>
+    <string name="numeros">Numeros</string>
+    <string name="aceptar">Aceptar</string>
+
+    <string name="regresar.a">Regresar</string>
+    <string name="regresar.c">Regresar</string>
+    <string name="regresar.n">Regresar</string>
+</resources>
